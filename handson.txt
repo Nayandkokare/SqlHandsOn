@@ -1,3 +1,5 @@
+
+
 use mydb
 --01
 select ORDER_DATE,SALESMAN_ID,ORD_NO,PURCH_AMT from orders
